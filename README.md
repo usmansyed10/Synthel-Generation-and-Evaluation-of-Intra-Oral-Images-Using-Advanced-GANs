@@ -1,0 +1,1 @@
+# Synthel-Generation-and-Evaluation-of-Intra-Oral-Images-Using-Advanced-GANs

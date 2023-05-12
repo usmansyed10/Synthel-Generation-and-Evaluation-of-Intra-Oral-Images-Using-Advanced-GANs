@@ -38,31 +38,6 @@ optional arguments:
 
 ![training](gif)
 
-
-### Testing
-
-Download the [weight] to generate 128x128 faces.
-
-Run the script generate_sample.py
-
-```
-$ python generate_sample.py -h               
-
-usage: generate_sample.py [-h] [--seed SEED] [--out_dir OUT_DIR]
-                          [--num_imgs NUM_IMGS] [--weight WEIGHT]
-                          [--out_res OUT_RES] [--cuda]
-
-optional arguments:
-  -h, --help           show this help message and exit
-  --seed SEED          Seed for generate images
-  --out_dir OUT_DIR    Directory for the output images
-  --num_imgs NUM_IMGS  Number of images to generate
-  --weight WEIGHT      Generator weight
-  --out_res OUT_RES    The resolution of final output image
-  --cuda               Using GPU to train
-```
-
-
 Sample Results
 ----------------------------
 
